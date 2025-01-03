@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/welcome/","created":"2025-01-03T15:29:50.358+09:00","updated":"2025-01-03T15:32:57.465+09:00"}
+{"dg-publish":true,"permalink":"/home/welcome/","tags":["gardenEntry"],"created":"2025-01-03T15:29:50.358+09:00","updated":"2025-01-03T15:35:51.247+09:00"}
 ---
 
 - 현재 여러 군데 퍼져있는 내용들을 취합하고 있는 과정입니다!
