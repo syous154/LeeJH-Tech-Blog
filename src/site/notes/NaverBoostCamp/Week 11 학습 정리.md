@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-11/","created":"2025-01-07T18:10:48.501+09:00","updated":"2025-01-07T18:14:52.604+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-11/","created":"2025-01-07T18:10:48.501+09:00","updated":"2025-01-07T18:19:46.508+09:00"}
 ---
 
-<aside> 📜
 
-1. Data-Centric AI의 개요
-2. Data-Centric AI의 중요성
-3. OCR Task
-4. 거대 모델을 활용한 OCR 및 문서 이해
-5. OCR Services & Applications
-6. OCR 및 문서 데이터셋 소개
-7. OCR 성능 평가
-8. Annotation 도구 소개
-9. 데이터 구축 작업 설계
-10. Data-Centric AI를 위한 데이터 후처리 </aside>
+>1. Data-Centric AI의 개요
+>2. Data-Centric AI의 중요성
+>3. OCR Task
+>4. 거대 모델을 활용한 OCR 및 문서 이해
+>5. OCR Services & Applications
+>6. OCR 및 문서 데이터셋 소개
+>7. OCR 성능 평가
+>8. Annotation 도구 소개
+>9. 데이터 구축 작업 설계
+>10. Data-Centric AI를 위한 데이터 후처리
 
 ## 1. Data-Centric AI의 개요
 
