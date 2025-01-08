@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-3/","created":"2025-01-07T18:04:05.038+09:00","updated":"2025-01-07T18:13:00.215+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-3/","created":"2025-01-07T18:04:05.038+09:00","updated":"2025-01-08T20:18:27.713+09:00"}
 ---
 
+[[NaverBoostCamp/Week 4 학습 정리\|Week 4 학습 정리]]
 # Day 1
 
 > 데이터와 획일화된 테크닉은 정답을 알려주지 않는다. ⇒ 관찰과 해석으로 본인만의 관점이 중요하다.

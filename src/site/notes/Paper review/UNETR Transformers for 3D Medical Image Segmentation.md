@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/unetr-transformers-for-3-d-medical-image-segmentation/","tags":["Paper"],"created":"2025-01-08T19:50:20.084+09:00","updated":"2025-01-08T19:52:05.761+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/unetr-transformers-for-3-d-medical-image-segmentation/","tags":["Paper"],"created":"2025-01-08T19:50:20.084+09:00","updated":"2025-01-08T20:10:00.427+09:00"}
 ---
 
-<aside>
-💡
 
-### 3D Input이미지를 ViT + 3D U-NET 인 Method로 segmentation을 진행한 모델 ⇒ UNETR
-
-</aside>
+> [!NOTE]
+>  ### 3D Input이미지를 ViT + 3D U-NET 인 Method로 segmentation을 진행한 모델 ⇒ UNETR
 
 # 기존 3D Segmentation 방식
 

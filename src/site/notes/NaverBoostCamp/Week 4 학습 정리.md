@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-4/","created":"2025-01-07T18:04:05.212+09:00","updated":"2025-01-07T18:13:02.451+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-4/","created":"2025-01-07T18:04:05.212+09:00","updated":"2025-01-08T20:18:47.661+09:00"}
 ---
 
+[[NaverBoostCamp/Week 5 학습 정리\|Week 5 학습 정리]]
 # 강의 복습 목차
 
-> 1. CNN & ViT
-> 2. Self-supervisedtraining
-> 3. CNN Visualizing & Data Augmentation
-> 4. Segmentation & Detection
-> 5. Computational Imaging
+> [!NOTE]
+> > 1. CNN & ViT
+> > 2. Self-supervisedtraining
+> > 3. CNN Visualizing & Data Augmentation
+> > 4. Segmentation & Detection
+> > 5. Computational Imaging
 
 # 1. CNN & ViT
 

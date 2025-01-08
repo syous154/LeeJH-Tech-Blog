@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-2/","created":"2025-01-07T18:04:04.534+09:00","updated":"2025-01-07T18:12:57.926+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-2/","created":"2025-01-07T18:04:04.534+09:00","updated":"2025-01-08T20:18:20.970+09:00"}
 ---
 
+[[NaverBoostCamp/Week 3 학습 정리\|Week 3 학습 정리]]
 # Day 1 (머신 러닝 라이프사이클)
 
 ## 전반적인 내용

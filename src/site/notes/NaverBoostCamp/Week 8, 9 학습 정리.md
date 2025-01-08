@@ -1,17 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-8-9/","created":"2025-01-07T18:10:39.725+09:00","updated":"2025-01-07T18:14:37.881+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-8-9/","created":"2025-01-07T18:10:39.725+09:00","updated":"2025-01-08T20:21:55.194+09:00"}
 ---
 
-> **1. OD Oveview
-> 2 Stage Detectors
-> 3. OD Library
-> 4. Neck
-> 5. 1 Stage Detectors
-> 6. EfficientDet
-> 7. Advanced OD1
-> 8. Advanced OD2
-> 9. Ready for Competition
-> 10. OD in Kaggle
+[[NaverBoostCamp/Week 11 학습 정리\|Week 11 학습 정리]]
+> [!NOTE]
+> > **1. OD Oveview
+> > 2 Stage Detectors
+> > 3. OD Library
+> > 4. Neck
+> > 5. 1 Stage Detectors
+> > 6. EfficientDet
+> > 7. Advanced OD1
+> > 8. Advanced OD2
+> > 9. Ready for Competition
+> > 10. OD in Kaggle
 
 # **1. OD Oveview**
 

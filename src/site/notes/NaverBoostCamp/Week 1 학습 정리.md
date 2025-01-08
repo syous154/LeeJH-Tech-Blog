@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-1/","created":"2025-01-07T18:03:53.724+09:00","updated":"2025-01-07T18:12:47.476+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-1/","created":"2025-01-07T18:03:53.724+09:00","updated":"2025-01-08T20:18:10.271+09:00"}
 ---
 
+[[NaverBoostCamp/Week 2 학습 정리\|Week 2 학습 정리]]
 # Day 1
 
 ## 1. Pytorch Intro
