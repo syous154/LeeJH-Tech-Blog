@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/yolo-v10/","tags":["Paper"],"created":"2025-01-08T19:56:06.010+09:00","updated":"2025-01-08T20:04:15.947+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/yolo-v10/","tags":["Paper"],"created":"2025-01-08T19:56:06.010+09:00","updated":"2025-01-08T20:04:54.330+09:00"}
 ---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
 
 
 

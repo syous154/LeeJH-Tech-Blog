@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/vi-t/","tags":["Paper"],"created":"2025-01-08T19:49:01.508+09:00","updated":"2025-01-08T19:52:18.115+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/vi-t/","tags":["Paper"],"created":"2025-01-08T19:49:01.508+09:00","updated":"2025-01-08T20:04:45.991+09:00"}
 ---
 
 # 1. Abstract
