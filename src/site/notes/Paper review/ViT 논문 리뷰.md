@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/vi-t/","tags":["Paper"],"created":"2025-01-08T19:49:01.508+09:00","updated":"2025-01-08T20:04:45.991+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/vi-t/","tags":["Paper"],"created":"2025-01-08T19:49:01.508+09:00","updated":"2025-01-08T20:11:32.683+09:00"}
 ---
 
 # 1. Abstract
@@ -22,8 +22,7 @@
 # 3. METHOD
 
 - 가능한 한 원래의 Transformer를 최대한 따라함으로써 NLP 아키텍처와 그 효율적인 구현을 거의 수정 없이 사용할 수 있게 됩니다.
-
-![image.png](/img/user/images/ViT images/image.png)
+![images/ViT images/image.png](/img/user/images/ViT%20images/image.png)
 
 ## 3.1 Vision Transformer(ViT)
 
