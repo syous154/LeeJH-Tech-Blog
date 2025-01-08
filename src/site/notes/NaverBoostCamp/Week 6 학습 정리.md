@@ -19,14 +19,14 @@
     - 결합도: 모듈 간 상호의존성 정도
 
 ⇒ 높은응집도(모듈내교류)와느슨한결합도(모듈끼리덜교류)를가진소프트웨어를지향
-![Pasted image 20250108201933.png](/img/user/Pasted%20image%2020250108201933.png)
+![Pasted image 20250108201933.png](/img/user/images/Pasted%20image%2020250108201933.png)
 - 테스트 ⇒ 프로그램이 예상대로 작동하고 문제가 없는지 확인하는 과정
     - Unit Test: 개별단위테스트
     - Integration Test: 다른단위, 구성요소 동작 테스트
     - End to End Test: 처음부터 끝까지 모두 테스트
     - Performance Test: 성능,부하 테스트
 
-![Pasted image 20250108201948.png](/img/user/Pasted%20image%2020250108201948.png)
+![Pasted image 20250108201948.png](/img/user/images/Pasted%20image%2020250108201948.png)
 
 - 문서화
 
@@ -40,9 +40,9 @@
 
 소프웨어 엔지니어링과 AI 엔지니어링은 비슷해 보이지만 역활과 관심사가 다름을 인지하는 것이 좋음
 
-![Pasted image 20250108202000.png](/img/user/Pasted%20image%2020250108202000.png)
+![Pasted image 20250108202000.png](/img/user/images/Pasted%20image%2020250108202000.png)
 
-![Pasted image 20250108202012.png](/img/user/Pasted%20image%2020250108202012.png)
+![Pasted image 20250108202012.png](/img/user/images/Pasted%20image%2020250108202012.png)
 
 # **2. Linux, 쉘 스크립트**
 
@@ -73,7 +73,7 @@ hostname: 컴퓨터 네트워크에 접속된 장치에 할당된 이름. IP 대
 
 ⇒ AI 모델의 Input ⇒ Output을 확인할 수 있도록 설정
 
-![Pasted image 20250108202026.png](/img/user/Pasted%20image%2020250108202026.png)
+![Pasted image 20250108202026.png](/img/user/images/Pasted%20image%2020250108202026.png)
 
 - Streamlit
 
@@ -81,7 +81,7 @@ hostname: 컴퓨터 네트워크에 접속된 장치에 할당된 이름. IP 대
 
 Streamlit Cloud가 존재해 배포도 쉽게 가능, 화면 녹화 기능을 제공해 프로토 타입 녹화 가능
 
-![Pasted image 20250108202035.png](/img/user/Pasted%20image%2020250108202035.png)
+![Pasted image 20250108202035.png](/img/user/images/Pasted%20image%2020250108202035.png)
 
 Streamlit은 화면에서 무언가 업데이트되면 **전체 Streamlit 코드가 다시 실행됨**
 
@@ -117,7 +117,7 @@ ex 2) 사용자가 Streamlit의 위젯과 상호작용하는 경우 (버튼 클�
     - 패키지 관리자(brew, apt, winget)로 설치
     - pyenv로 설치
 
-![Pasted image 20250108202047.png](/img/user/Pasted%20image%2020250108202047.png)
+![Pasted image 20250108202047.png](/img/user/images/Pasted%20image%2020250108202047.png)
 
 - 가상환경
     
@@ -136,4 +136,4 @@ ex 2) 사용자가 Streamlit의 위젯과 상호작용하는 경우 (버튼 클�
 - 디버깅 Process
     
 
-![Pasted image 20250108202101.png](/img/user/Pasted%20image%2020250108202101.png)
+![Pasted image 20250108202101.png](/img/user/images/Pasted%20image%2020250108202101.png)
