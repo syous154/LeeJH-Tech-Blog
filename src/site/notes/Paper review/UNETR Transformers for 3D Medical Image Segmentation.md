@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/unetr-transformers-for-3-d-medical-image-segmentation/","tags":["Paper"],"created":"2025-01-08T19:50:20.084+09:00","updated":"2025-01-08T20:10:00.427+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/unetr-transformers-for-3-d-medical-image-segmentation/","tags":["Paper"],"created":"2025-01-08T19:50:20.084+09:00","updated":"2025-01-09T21:48:20.393+09:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # 기존 3D Segmentation 방식
 
-![**3D U-Net**](/img/user/images/ViT images/image.png)
+![images/UNETR images/image.png](/img/user/images/UNETR%20images/image.png)
 
 **3D U-Net**
 
@@ -20,7 +20,7 @@ UNETR 이전의 3D 이미지를 Segmentation하는 방법은 위의 이미지와
 
 # UNETR
 
-![UNETR](/img/user/images/ViT images/image 1.png)
+![images/UNETR images/image 1.png](/img/user/images/UNETR%20images/image%201.png)
 
 UNETR
 
@@ -44,11 +44,11 @@ UNETR
 
 - BTCV (복부 CT 스캔 데이터셋)
 
-![image.png](/img/user/images/R-CNN images/image 2.png)
+![images/UNETR images/image 2.png](/img/user/images/UNETR%20images/image%202.png)
 
 - MSD (뇌종양 Segmentation 데이터셋)
 
-![image.png](/img/user/images/R-CNN images/image 3.png)
+![images/UNETR images/image 3.png](/img/user/images/UNETR%20images/image%203.png)
 
 두 가지 데이터셋을 이용해 학습 후 평가한 결과 기존에 존재하던 모델에 비해 더 좋은 성능을 보여준 다는 것을 확인할 수 있었고 결과적으로 UNETR은 기존 모델과 비교해 다음과 같은 강점이 있다는 것을 알았습니다.
 
@@ -59,7 +59,7 @@ UNETR
 - 추가연구
     - 기존의 UNETR의 디코더를 말고 다른 구조의 디코더를 사용하면 성능 변화가 어떨까?
         
-        ![image.png](/img/user/images/R-CNN images/image 4.png)
+        ![images/UNETR images/image 4.png](/img/user/images/UNETR%20images/image%204.png)
         
         MSD 데이터 셋을 이용해 여러 디코더를 평가한 결과 다른 디코더 보다 기존에 적용한 UNETR의 디코더가 더 성능이 좋은 것을 알 수 있었다.
         
