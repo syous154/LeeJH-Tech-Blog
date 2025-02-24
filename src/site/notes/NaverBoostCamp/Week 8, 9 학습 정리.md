@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-8-9/","created":"2025-01-07T18:10:39.725+09:00","updated":"2025-01-08T20:21:55.194+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-8-9/","created":"2025-01-07T18:10:39.725+09:00","updated":"2025-02-24T14:42:09.716+09:00"}
 ---
 
-[[NaverBoostCamp/Week 11 학습 정리\|Week 11 학습 정리]]
+[[NaverBoostCamp/Week 11, 12 학습 정리\|Week 11, 12 학습 정리]]
 > [!NOTE]
-> > **1. OD Oveview
-> > 2 Stage Detectors
+> > 1. OD Oveview
+> > 2. Stage Detectors
 > > 3. OD Library
 > > 4. Neck
 > > 5. 1 Stage Detectors

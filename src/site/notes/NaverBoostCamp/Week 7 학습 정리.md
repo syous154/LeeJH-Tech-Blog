@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-7/","created":"2025-01-07T18:10:24.092+09:00","updated":"2025-01-08T20:21:44.774+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-7/","created":"2025-01-07T18:10:24.092+09:00","updated":"2025-01-08T20:25:26.001+09:00"}
 ---
 
 [[NaverBoostCamp/Week 8, 9 학습 정리\|Week 8, 9 학습 정리]]
 > [!NOTE]
-> > **1.** **CV Basic Competition
+> > 1. CV Basic Competition
 > > 2. Image
 > > 3. Image Processing
 > > 4. Image Clasisification

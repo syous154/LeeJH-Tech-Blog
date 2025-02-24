@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/attention/","tags":["Paper"],"created":"2025-01-08T19:47:53.813+09:00","updated":"2025-01-08T19:51:28.098+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/attention/","tags":["Paper"],"created":"2025-01-08T19:47:53.813+09:00","updated":"2025-01-16T18:18:47.767+09:00"}
 ---
-
-
 
 # 1. Abstract
 
