@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-13/","created":"2025-02-24T14:33:42.286+09:00","updated":"2025-02-24T15:46:20.685+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-13/","created":"2025-02-26T15:44:18.937+09:00","updated":"2025-02-24T15:46:20.685+09:00"}
 ---
 
 # Semantic Segmentation 강의 상세 설명

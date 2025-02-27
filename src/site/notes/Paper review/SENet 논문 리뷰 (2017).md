@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/se-net-2017/","tags":["Paper"],"created":"2025-01-08T19:35:23.146+09:00","updated":"2025-01-08T19:51:32.534+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/se-net-2017/","tags":["Paper"],"created":"2025-02-26T15:44:19.138+09:00","updated":"2025-01-08T19:51:32.534+09:00"}
 ---
 
 # 1. 소개

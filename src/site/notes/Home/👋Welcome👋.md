@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/welcome/","tags":["gardenEntry"],"created":"2025-01-03T15:29:50.358+09:00","updated":"2025-01-03T18:47:50.160+09:00"}
+{"dg-publish":true,"permalink":"/home/welcome/","tags":["gardenEntry"],"created":"2025-02-26T15:44:18.322+09:00","updated":"2025-01-03T18:47:50.160+09:00"}
 ---
 
 # Main Page

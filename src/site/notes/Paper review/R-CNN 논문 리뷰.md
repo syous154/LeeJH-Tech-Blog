@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/r-cnn/","tags":["Paper"],"created":"2025-01-08T19:49:46.656+09:00","updated":"2025-01-08T19:51:26.292+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/r-cnn/","tags":["Paper"],"created":"2025-02-26T15:44:19.124+09:00","updated":"2025-01-08T19:51:26.291+09:00"}
 ---
 
 

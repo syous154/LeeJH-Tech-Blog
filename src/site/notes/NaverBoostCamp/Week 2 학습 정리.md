@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/naver-boost-camp/week-2/","created":"2025-01-07T18:04:04.534+09:00","updated":"2025-01-08T20:18:20.970+09:00"}
+{"dg-publish":true,"permalink":"/naver-boost-camp/week-2/","created":"2025-02-26T15:44:18.957+09:00","updated":"2025-01-08T20:18:20.969+09:00"}
 ---
 
 [[NaverBoostCamp/Week 3 학습 정리\|Week 3 학습 정리]]

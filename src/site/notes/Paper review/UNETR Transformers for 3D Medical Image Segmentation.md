@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-review/unetr-transformers-for-3-d-medical-image-segmentation/","tags":["Paper"],"created":"2025-01-08T19:50:20.084+09:00","updated":"2025-01-09T21:48:48.656+09:00"}
+{"dg-publish":true,"permalink":"/paper-review/unetr-transformers-for-3-d-medical-image-segmentation/","tags":["Paper"],"created":"2025-02-26T15:44:19.152+09:00","updated":"2025-01-09T21:48:48.655+09:00"}
 ---
 
 > [!NOTE]
