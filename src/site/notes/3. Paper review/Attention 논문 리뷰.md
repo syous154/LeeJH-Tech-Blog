@@ -44,7 +44,7 @@
 
 - Transformer는 인코더와 디코더 모두에서 스택된 Self Attention과 Point-wise 완전 연결층을 사용하는 아래의 사진과 같은 구조를 가짐
 
-![image.png](/img/user/images/R-CNN images/image 2.png)
+![image.png](/img/user/images/UNETR images/image 2.png)
 
 ## 4.1 **Encoder and Decoder Stacks**
 
@@ -55,14 +55,14 @@
 
 ### 4.2.1 Scaled Dot-Product Attention
 
-![image.png](/img/user/images/R-CNN images/image 3.png)
+![image.png](/img/user/images/UNETR images/image 3.png)
 
 > Query : 영향을 받을 단어 (벡터)
 Key : 영향을 주는 단어 (벡터)
 Value : 영향에 대한 가중치 (벡터)
 > 
 
-![이 식을 이용해 계산](/img/user/images/R-CNN images/image 4.png)
+![이 식을 이용해 계산](/img/user/images/UNETR images/image 4.png)
 
 이 식을 이용해 계산
 

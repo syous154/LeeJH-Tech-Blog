@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/obsidian/","created":"2025-02-26T15:44:19.077+09:00","updated":"2025-03-01T17:17:57.372+09:00"}
+{"dg-publish":true,"permalink":"/notes/obsidian/","created":"2025-02-26T15:44:19.077+09:00","updated":"2025-03-01T17:17:57.371+09:00"}
 ---
 
 https://www.youtube.com/watch?v=7f8e5IiUkeo&t=769s
