@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/obsidian/","created":"2025-02-26T15:44:19.077+09:00","updated":"2025-01-03T18:46:57.565+09:00"}
+{"dg-publish":true,"permalink":"/notes/obsidian/","created":"2025-02-26T15:44:19.077+09:00","updated":"2025-03-01T17:17:57.372+09:00"}
 ---
 
 https://www.youtube.com/watch?v=7f8e5IiUkeo&t=769s
@@ -18,3 +18,7 @@ Ctrl + shift + T 를 이용해 바로 Template을 불러와 사용함
 모든 변경 사항을 반영하려면 
 Ctrl + P -> Publish Multiple Notes
 
+
+
+--- 
+파일명을 만들 때 한글로만 만들면 permalink에 아무런 값이 들어가지 않아 배포가 불가능하다. 따라서 각 폴더내에서 uniqueg한 숫자, 영어가 꼭 들어가야한다.
