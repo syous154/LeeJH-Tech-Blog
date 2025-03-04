@@ -51,19 +51,19 @@
         
         Krizhevsky et al. [25]의 CNN 모델을 사용하여 각 영역 제안에서 4096차원의 특징 벡터를 추출합니다. 이미지 데이터는 고정된 227 × 227 픽셀 크기로 CNN에 입력되기 전에 warp됩니다.
         
-        ![image.png](/img/user/images/UNETR images/image 2.png)
+        ![image.png](/img/user/images/R-CNN images/image 2.png)
         
     - **모듈 3: 클래스별 선형 SVM(Class-specific linear SVMs)**:
         
         각 클래스별로 선형 SVM을 학습시켜, 영역 제안에서 추출한 특징 벡터를 바탕으로 객체를 분류합니다.
         
-        ![image.png](/img/user/images/UNETR images/image 3.png)
+        ![image.png](/img/user/images/R-CNN images/image 3.png)
         
         > Bounding Box Regression?
         ⇒ 앞서 region proposal을 통해 얻은 bbox가 P, Ground Truth는 GT일 때 P를 GT에 가까워지도록 만드는 것이 Bounding Box Regression이다.
         > 
         > 
-        > ![image.png](/img/user/images/UNETR images/image 4.png)
+        > ![image.png](/img/user/images/R-CNN images/image 4.png)
         > 
 
 > R-CNN과정 
