@@ -25,7 +25,7 @@ serving 방식은 크게 **Batch Serving**과 **Online (Real Time) Serving** 두
 Netflix의 콘텐츠 추천 시스템은 n시간 단위로 예측 결과를 생성해 DB에 저장한 후, DB의 예측 결과를 읽어와 서빙하는 방식입니다.
 
 ### 1-2. Batch 패턴 구성 요소
-![Pasted image 20250311142136.png](/img/user/Pasted%20image%2020250311142136.png)
+![Pasted image 20250311142136.png](/img/user/images/Pasted%20image%2020250311142136.png)
 Batch 패턴은 크게 3개의 파트로 구성할 수 있습니다.
 
 - **Job Management Server**
@@ -69,7 +69,7 @@ Batch 패턴은 크게 3개의 파트로 구성할 수 있습니다.
 - 번역 서비스
 
 ### 2-2. Online Serving 패턴: Web Single 패턴
-![Pasted image 20250311142148.png](/img/user/Pasted%20image%2020250311142148.png)
+![Pasted image 20250311142148.png](/img/user/images/Pasted%20image%2020250311142148.png)
 **Web Single 패턴 구성 요소:**
 
 - **Inference Server**
@@ -271,7 +271,7 @@ with DAG(
 ```
 
 ### Cron 표현식 간단 정리
-![Pasted image 20250311142550.png](/img/user/Pasted%20image%2020250311142550.png)
+![Pasted image 20250311142550.png](/img/user/images/Pasted%20image%2020250311142550.png)
 - **구성:**
     - 1번째 자리: 분 (0-59)
     - 2번째 자리: 시 (0-23)
@@ -802,10 +802,10 @@ def get_login_form(request: Request):
 ```
 
 _`login_form.html` 파일은 프로젝트 루트나 지정한 디렉토리에 위치해야 합니다._
-![Pasted image 20250311144549.png](/img/user/Pasted%20image%2020250311144549.png)
+![Pasted image 20250311144549.png](/img/user/images/Pasted%20image%2020250311144549.png)
 
 ### 4-4. 파일 업로드
-![Pasted image 20250311144606.png](/img/user/Pasted%20image%2020250311144606.png)
+![Pasted image 20250311144606.png](/img/user/images/Pasted%20image%2020250311144606.png)
 파일 업로드 기능도 쉽게 구현할 수 있습니다. Form을 구현할 때처럼 `python-multipart` 설치가 필요하다.
 
 ```python

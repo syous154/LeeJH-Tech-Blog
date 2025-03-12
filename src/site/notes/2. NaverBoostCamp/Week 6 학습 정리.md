@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-naver-boost-camp/week-6/","created":"2025-02-26T15:44:19.021+09:00","updated":"2025-01-08T20:21:33.720+09:00"}
+{"dg-publish":true,"permalink":"/2-naver-boost-camp/week-6/","created":"2025-02-26T15:44:19.021+09:00","updated":"2025-03-12T13:42:06.108+09:00"}
 ---
 
-[[2. NaverBoostCamp/Week 7 학습 정리\|Week 7 학습 정리]]
+[[2. NaverBoostCamp/Week 7-8 학습 정리\|Week 7-8 학습 정리]]
 > [!NOTE]
 > > **1. 소프트웨어엔지니어링과 AI엔지니어링
 > > 2. Linux, 쉘 스크립트
